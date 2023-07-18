@@ -17,12 +17,6 @@ public class SecretsClient {
         
         // TODO implement a call for a service where the secrets it is
         
-        secrets.put(DB_HOST_KEY_NAME, "spdibd19cdv.siteplata.penoles");
-        secrets.put(DB_PORT_KEY_NAME, "60001");
-        secrets.put(DB_SID_KEY_NAME, "SICOVE");
-        secrets.put(DB_USU_KEY_NAME, "sicove");
-        secrets.put(DB_PASS_KEY_NAME, "Sic0v32023");
-        secrets.put(DB_TYPE_KEY_NAME, "oracle");
 
         return secrets;
     }
